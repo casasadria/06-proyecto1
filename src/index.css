@@ -209,3 +209,7 @@ textarea{
       width: 80%;
   }
 }
+
+.no-encontado{
+  color: red;
+}
